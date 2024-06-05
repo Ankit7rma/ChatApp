@@ -13,4 +13,5 @@ const createTokenAndSaveCookie = (userId, res) => {
   });
 };
 
+// as
 export default createTokenAndSaveCookie;
